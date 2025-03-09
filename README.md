@@ -1,8 +1,8 @@
-NAME:
-APP NUMBER:
-COURSE CODE:
-COURSE TITLE:
-DATE:
+NAME:Ota Onyinyechi Onyeani 
+APP NUMBER:APP/HND/24/00132
+COURSE CODE:AIT 313
+COURSE TITLE: ARTIFICIAL INTELLIGENCE 
+DATE:4/3/2025
          Question 1:
 Compare and constract  Augmented intelligence Vs Artificial intelligence 
 
